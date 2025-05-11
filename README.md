@@ -7,6 +7,7 @@ Trading engine which assimilates data across various sources to provide automate
 * Install dependencies: `pip install pandas anthropic`
 * Set API key: `export ANTHROPIC_API_KEY='your-key'` (or enter when prompted)
 * Put the image (or images) in `input` directory
+  * Make sure `input` directory exists: `mkdir -p input`
 * Default usage: `python extract_trading_data.py`
 * To use a custom input directory: `python extract_trading_data.py --input-folder your_folder_name`
 
