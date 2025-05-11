@@ -1,6 +1,7 @@
 key.txt
 input/
 consolidated_trading_data.csv
+.DS_store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
